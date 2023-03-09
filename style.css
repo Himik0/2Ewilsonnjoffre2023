@@ -1,0 +1,17 @@
+header{
+width: 2366px;
+height: 333px;
+left: 292px;
+top: 182px;
+background-color:#C78CC1;
+
+box-sizing: border-box;
+
+position: relative;
+width: 1853px;
+height: 128px;
+
+background: #E067CD;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 2px;
+}
