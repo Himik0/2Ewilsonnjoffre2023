@@ -1,57 +1,77 @@
 header{
   /* Rectangle 1 */
-
-
-position: absolute;
-width: 2526px;
-height: 333px;
-left: 40px;
-top: 27px;
+  position: absolute;
+width: 2000px;
+height: 352px;
+left: 0px;
+top: 0px;
 
 background: #C78CC1;
-
 }
 
 #gatinho2{
   position: absolute;
 width: 169px;
 height: 110px;
-left: 83px;
-top: 134px;
+left: 100px;
+top: 122px;
 
 background: url(gatinho2-removebg-preview.png);
 }
 #instagram{
   position: absolute;
-width: 345px;
-height: 65px;
-left: 1366px;
-top: 128px;
-
-font-family: 'Irish Grover';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 77px;
-
-color: #000000;
-}
-#galeriadasmedalhas{
-  /* galeria das medalhas */
-
-
-  position: absolute;
-  width: 738px;
-  height: 87px;
-  left: 1809px;
-  top: 128px;
+  width: 323px;
+  height: 50px;
+  left: 745px;
+  top: 282px;
 
   font-family: 'Irish Grover';
   font-style: normal;
   font-weight: 400;
-  font-size: 64px;
-  line-height: 77px;
+  font-size: 40px;
+  line-height: 48px;
 
   color: #000000;
+
+}
+#galeriadasmedalhas{
+  position: absolute;
+  width: 646px;
+  height: 112px;
+  left: 995px;
+  top: 282px;
+
+  font-family: 'Irish Grover';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
+
+
+}
+#retangulo2{
+  position: absolute;
+  width: 778px;
+  height: 83px;
+  left: 243px;
+  top: 163px;
+
+  background: rgba(224, 103, 205, 0.5);
+}
+h3{
+  position: absolute;
+width: 723px;
+height: 84px;
+left: 298px;
+top: 145px;
+
+font-family: 'Irish Grover';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 73px;
+
 
 }
