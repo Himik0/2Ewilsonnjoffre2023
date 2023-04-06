@@ -72,6 +72,19 @@ font-style: normal;
 font-weight: 400;
 font-size: 60px;
 line-height: 73px;
+}
 
-
+.kuromi{
+  position: absolute;
+  width: 262px;
+  height: 351px;
+  left: 167px;
+  top: 1269px;
+}
+.arcoiris{
+  position: absolute;
+width: 351px;
+height: 195px;
+left: -25px;
+top: 1567px;
 }
