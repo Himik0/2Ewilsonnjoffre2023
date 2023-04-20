@@ -9,28 +9,25 @@ top: 0px;
 background: #C78CC1;
 }
 
-#gatinho2{
+.gatinho2{
   position: absolute;
-width: 169px;
-height: 110px;
-left: 100px;
-top: 122px;
-
-background: url(gatinho2-removebg-preview.png);
+  width: 169px;
+  height: 110px;
+  left: 100px;
+  top: 122px;
 }
+
 #instagram{
   position: absolute;
   width: 323px;
   height: 50px;
   left: 745px;
   top: 282px;
-
   font-family: 'Irish Grover';
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
   line-height: 48px;
-
   color: #000000;
 
 }
@@ -40,13 +37,11 @@ background: url(gatinho2-removebg-preview.png);
   height: 112px;
   left: 995px;
   top: 282px;
-
   font-family: 'Irish Grover';
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
   line-height: 48px;
-
   color: #000000;
 
 
@@ -87,4 +82,42 @@ width: 351px;
 height: 195px;
 left: -25px;
 top: 1567px;
+}
+.nuvem{
+  position: absolute;
+  width: 1023.34px;
+  height: 805.24px;
+  left: 392px;
+  top: 601.15px;
+}
+.gatinho1{
+  position: absolute;
+width: 234px;
+height: 179px;
+left: 1106px;
+top: 1753px;
+}
+.estrelas{
+
+  position: absolute;
+width: 351px;
+height: 337px;
+left: -53px;
+top: 473px;
+}
+.xadrez{
+  position: absolute;
+width: 568px;
+height: 1264px;
+left: 0px;
+top: 629px;
+}
+
+.quadrado{
+  position: absolute;
+  width: 1332px;
+  height: 785px;
+  left: 83px;
+  top: 839px;
+
 }
